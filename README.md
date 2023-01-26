@@ -1,5 +1,5 @@
 # AutumnBot-Privacy-Policy
-## ** AutumnBot Privacy Policy ** 
+## **AutumnBot Privacy Policy** 
  ### By using Aperstar you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines) 
   
  ## 1. What does it store? 
